@@ -6,6 +6,3 @@ concurrency control (OMVCC). The objects stored in this key-value store are `(in
 
 It combines the standard MVCC (multi-version CC) and OCC (optimistic CC).<br>
 The full spec can be found in [p3.pdf](p3.pdf).
-
-## Tests
-??
